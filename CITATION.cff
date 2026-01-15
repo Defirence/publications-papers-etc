@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as follows."
+authors:
+- family-names: "Defirence"
+  given-names: "T. Gelderbloem"
+title: "A Theoretical Framework for Hyper-Adaptive Biological State Coherence Under Extreme Systemic Failure (Revision 2.1)"
+version: 2.1.0
+date-released: 2026-01-15
+url: "https://github.com/Defirence/publications-papers-etc/main/draft_2.1_HABSC_theory.md"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Defirence"
+    given-names: "T. Gelderbloem"
+  journal: "GitHub Repository"
+  title: "A Theoretical Framework for Hyper-Adaptive Biological State Coherence Under Extreme Systemic Failure (Revision 2.1)"
+  year: 2026
