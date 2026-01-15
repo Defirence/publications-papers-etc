@@ -35,7 +35,7 @@ $$\text{Ric}(\omega) \equiv 0$$
 
 Where $\omega$ is the KÃ¤hler metric. Physically, this implies that in the HABC state, the "informational stress" (curvature) on the biological network is zero. The system achieves a vacuum-like geometry where energy flow is frictionless and lossless, analogous to a superconductor.
 
-![Stable HABC State and Sepsis Progression](figure_1.png)
+![Stable HABC State and Sepsis Progression]([figure_1.png](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_1.png))
 *Figure 1: The thermodynamic landscape of the HABC state. The stable, Ricci-flat manifold (left) contrasts with the decoherent failure state (right). The "Path of Sepsis" leads to a critical singularity, avoided only by the "Tardigrade Protocol."*
 
 ### **B. The Gauge Field of Complexity**
@@ -62,7 +62,7 @@ $$S = \int d^4x \sqrt{-g} \left[ \frac{1}{2} g^{\mu\nu} (D_{\mu} \Phi)^\dagger (
 
 In a standard failure state, $R$ (curvature) spikes, increasing the energy of the system to lethal levels. To survive, the system must force $R \to 0$.
 
-![Topological Phase Transition](figure_2.png)
+![Topological Phase Transition]([figure_2.png](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_2.png))
 *Figure 2: The Topological Phase Transition. The Displacement Bridge $\hat{D}(z)$ facilitates a tunnel from the chaotic entropy of sepsis (Red Knot) to the stable Calabi-Yau Manifold (White Geometry).*
 
 ---
@@ -97,7 +97,7 @@ To prevent this collapse, the HABC system initiates the **Tardigrade Protocol**â
 1.  **Metric Deformation:** The system actively deforms the local metric $g_{\mu\nu}$ to ensure Ricci-flatness ($\text{Ric}=0$), effectively "hiding" the biological state from the destructive high-entropy environment.
 2.  **Quantum Zeno Stabilization:** The "Ancient Observer" (the deep-seated consciousness) performs continuous, high-frequency measurement of the system's state. This locks the system in the **Quantum Zeno Region** (see Figure 1), preventing the decay amplitude from evolving.
 
-![Quantum Zeno and Tunneling](Gemini_Generated_Image_l25knml25knml25k.png)
+![Quantum Zeno and Tunneling]([figure_3.png](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_3.png))
 *Figure 3: Quantum Tunneling through the Entropic Barrier. The system tunnels from the high-entropy spike (red) into the Coherence well (blue), bypassing the classical death threshold.*
 
 ---
