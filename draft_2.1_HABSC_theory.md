@@ -1,12 +1,9 @@
 # A Theoretical Framework for Hyper-Adaptive Biological State Coherence Under Extreme Systemic Failure
 
-**Author:** Defirence
-
-**Date:** January 2026
-
-**Repository:** https://github.com/Defirence/publications-papers-etc
-
-**Status:** Draft v2.1 (Merged)
+### **Author:** Defirence
+##### **Date:** January 2026
+##### **Repository:** [https://github.com/Defirence/publications-papers-etc/main/draft_2.1_HABSC_theory.md](https://github.com/Defirence/publications-papers-etc/blob/main/draft_2.1_HABSC_theory.md)
+##### **Status:** Draft v2.1 (Merged)
 
 ---
 
@@ -35,7 +32,7 @@ $$\text{Ric}(\omega) \equiv 0$$
 
 Where $\omega$ is the Kähler metric. Physically, this implies that in the HABC state, the "informational stress" (curvature) on the biological network is zero. The system achieves a vacuum-like geometry where energy flow is frictionless and lossless, analogous to a superconductor.
 
-![Stable HABC State and Sepsis Progression]([figure_1.png](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_1.png))
+![Figure 1: The thermodynamic landscape of the HABC state.](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_1.png)
 *Figure 1: The thermodynamic landscape of the HABC state. The stable, Ricci-flat manifold (left) contrasts with the decoherent failure state (right). The "Path of Sepsis" leads to a critical singularity, avoided only by the "Tardigrade Protocol."*
 
 ### **B. The Gauge Field of Complexity**
@@ -62,8 +59,8 @@ $$S = \int d^4x \sqrt{-g} \left[ \frac{1}{2} g^{\mu\nu} (D_{\mu} \Phi)^\dagger (
 
 In a standard failure state, $R$ (curvature) spikes, increasing the energy of the system to lethal levels. To survive, the system must force $R \to 0$.
 
-![Topological Phase Transition]([figure_2.png](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_2.png))
-*Figure 2: The Topological Phase Transition. The Displacement Bridge $\hat{D}(z)$ facilitates a tunnel from the chaotic entropy of sepsis (Red Knot) to the stable Calabi-Yau Manifold (White Geometry).*
+![Figure 2: The Topological Phase Transition.](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_2.png)
+*Figure 2: The Topological Phase Transition. The Displacement Bridge D̂(**z**) facilitates a quantum tunnel from the chaotic entropy of the sepsis-induced singularity (Red Knot) directly to the stable Ricci-flat Calabi-Yau Manifold (White Geometry).*
 
 ---
 
@@ -94,10 +91,10 @@ When this inequality holds, the system loses non-local correlation and collapses
 ### **B. The Tardigrade Protocol**
 To prevent this collapse, the HABC system initiates the **Tardigrade Protocol**—a forced geometric stabilization.
 
-1.  **Metric Deformation:** The system actively deforms the local metric $g_{\mu\nu}$ to ensure Ricci-flatness ($\text{Ric}=0$), effectively "hiding" the biological state from the destructive high-entropy environment.
-2.  **Quantum Zeno Stabilization:** The "Ancient Observer" (the deep-seated consciousness) performs continuous, high-frequency measurement of the system's state. This locks the system in the **Quantum Zeno Region** (see Figure 1), preventing the decay amplitude from evolving.
+1. **Metric Deformation:** The system actively deforms the local metric $g_{\mu\nu}$ to ensure Ricci-flatness ($\text{Ric}=0$), effectively "hiding" the biological state from the destructive high-entropy environment.
+2. **Quantum Zeno Stabilization:** The "Ancient Observer" (the deep-seated consciousness) performs continuous, high-frequency measurement of the system's state. This locks the system in the **Quantum Zeno Region** (see Figure 3), preventing the decay amplitude from evolving.
 
-![Quantum Zeno and Tunneling]([figure_3.png](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_3.png))
+![Figure 3: Quantum Tunneling through the Entropic Barrier.](https://raw.githubusercontent.com/Defirence/publications-papers-etc/refs/heads/main/assets/images/figure_3.png)
 *Figure 3: Quantum Tunneling through the Entropic Barrier. The system tunnels from the high-entropy spike (red) into the Coherence well (blue), bypassing the classical death threshold.*
 
 ---
